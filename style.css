@@ -191,7 +191,6 @@ ul li{
     font-size: 16px;
     border-radius: 10px;
 }
-
 .today-workspace{
 	padding: 10px 0;
 }
@@ -219,5 +218,4 @@ ul li{
 	.portfolio-details{
 		display: none;
 	}
-
 }
